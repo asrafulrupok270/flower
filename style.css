@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: "Lato", serif;
+ 
+}
+
+header{
+    background-color: rgb(241, 227, 233);
+   
+}
+.container{
+
+    align-items: center;
+    width: 75%;
+    margin: auto;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+}
+.image_banner{
+    width: 340px;
+}
+.banner-h1{
+    font-weight: 700;
+    font-style: bold;
+    margin-bottom: 9px;
+    font-size: 40px;
+    margin-top: 10px;
+    color: rgb(31, 29, 29);
+}
+.banner-p{
+    margin-bottom: 15px;
+}
+.btn-banner{
+  
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(199, 115, 143);
+ 
+  border: rgb(199, 115, 143);
+  border-radius: 4px;
+  color: white;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.second_heading{
+    margin-top: 8rem;
+    text-align: center;
+    margin-bottom: 2rem;
+
+}
+ 
+.second-card{
+    display: flex;
+ 
+    align-items: end;
+ 
+   justify-content: space-around;
+ 
+    margin-bottom: 8rem;
+}
+.flower{
+    border: 10px solid rgb(238, 207, 207);
+    background-color: rgb(238, 207, 207);
+    border-radius:  300px 300px 0 0 ; 
+    padding:  30px 15px 0;
+    height: 300px;
+    
+   
+}
+.flower1{
+    border: 10px solid rgb(183, 205, 235);
+    background-color:rgb(183, 205, 235);
+    border-radius:  300px 300px 0 0 ;
+    padding:  30px 15px 0;
+    height: 300px;
+    
+   
+}
+.flower2{
+    border: 10px solid rgb(215, 231, 212);
+    background-color: rgb(215, 231, 212);
+    border-radius:  300px 300px 0 0 ;
+    padding:  30px 15px 0;
+    height: 300px;
+    
+   
+}
+.flower img{
+    width:  200px;
+    padding: 15px;
+     
+  
+}
+.flower1 img{
+    width:  200px;
+    padding: 15px;
+     
+  
+}
+.flower2 img{
+    width:  190px;
+    padding: 15px;
+     
+  
+}
+ .card p {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+ }
+ .third-section{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    background-color: rgb(224, 224, 224);
+   padding: 30px;
+   border-radius: 14px ;
+    margin-bottom: 8rem;
+ }
+ .btn-third{
+    align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(199, 115, 143);
+ 
+  border: rgb(199, 115, 143);
+  border-radius: 4px;
+  color: white;
+  font-weight: 700;
+  margin-bottom: 20px;
+  justify-content: center;
+
+
+
+
+ }
+ .third{
+    background-color: antiquewhite;
+    margin-bottom: 8rem;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    max-width: auto;
+ }
+ .banner{
+    width: 60%;
+ }
+ .images_insta{
+    
+
+    display: flex;
+    justify-content: space-between;
+ }
+ .insta-h1{
+    text-align: center;
+    font-weight: 600;
+    font-style: bold;
+    margin-bottom: 9px;
+    font-size: 40px;
+    margin-top: 10px;
+    color: rgb(31, 29, 29);
+ }
+ .insta-p{
+    text-align: center;
+    margin-bottom: 4rem;
+ }
+ .insta-img{
+    border-radius: 200px;
+    width: 80%;
+ 
+ }
+ .instagram{
+    margin-bottom: 8rem;
+ }
+.search{
+    width: 75%;
+    max-width: auto;
+    margin-bottom: 4rem;
+padding: 80px;
+}
+
+.search{
+    background-image: url( "Flower Asset/Rectangle\ 9.png");
+
+ }
+ .subscribe-section{
+    text-align: center;
+ }
+ .subscribe-section h1 {
+    text-align: center;
+    font-weight: 600;
+    font-style: bold;
+    margin-bottom: 9px;
+    font-size: 40px;
+    margin-top: 10px;
+    color: rgb(31, 29, 29);
+   
+ }
+ .inpt{
+    margin-top: 2rem;
+    width: 500px;
+    padding: 10px;
+    border: 3px solid  white;
+ }
+.btn-inp{
+    align-items: center;
+  width: 120px;
+ padding: 10px;
+  border: 3px solid tomato;
+  border-radius: 4px;
+  background-color:  tomato;
+  font-weight: 700;
+  margin-bottom: 20px;
+  justify-content: center;
+  color: white;
+  font-size: 700;
+  margin-left: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .foot{
+    text-align: center;
+    padding: 80px;
+    background-color: black;
+    color: white;
+ 
+ }
+ .foot p {
+    font-size: 11px;
+    margin-bottom: 3rem;
+ }
+ 
