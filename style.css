@@ -186,10 +186,12 @@ header{
     margin-bottom: 4rem;
 padding: 80px;
 }
-
+ 
 .search{
+   
     background-image: url( "Flower Asset/Rectangle\ 9.png");
-
+    background-repeat: no-repeat;
+ 
  }
  .subscribe-section{
     text-align: center;
