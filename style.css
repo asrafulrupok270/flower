@@ -37,10 +37,8 @@ header{
 }
 .btn-banner{
   
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+ width: 150px;
+ padding: 10px;
   background-color: rgb(199, 115, 143);
  
   border: rgb(199, 115, 143);
@@ -126,10 +124,8 @@ header{
  }
  .btn-third{
     align-items: center;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+   width: 150px;
+   padding: 10px;
   background-color: rgb(199, 115, 143);
  
   border: rgb(199, 115, 143);
@@ -174,10 +170,7 @@ header{
     margin-bottom: 4rem;
  }
 
- .card1{
-
-   
- }
+ 
  .insta-img{
     border-radius: 200px;
     width: 80%;
