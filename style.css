@@ -173,9 +173,15 @@ header{
     text-align: center;
     margin-bottom: 4rem;
  }
+
+ .card1{
+
+   
+ }
  .insta-img{
     border-radius: 200px;
     width: 80%;
+    box-shadow: 10px 10px 20px rgb(146, 135, 135);
  
  }
  .instagram{
