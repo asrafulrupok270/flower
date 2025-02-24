@@ -190,6 +190,7 @@ padding: 80px;
 .search{
    
     background-image: url( "images/Rectangle\ 9.png");
+    background-size: cover;
     background-repeat: no-repeat;
  
  }
@@ -227,20 +228,6 @@ padding: 80px;
   margin-left: 1rem;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  .foot{
     text-align: center;
     padding: 80px;
@@ -248,7 +235,7 @@ padding: 80px;
     color: white;
  
  }
- .foot p {
+ .foot p{
     font-size: 11px;
     margin-bottom: 3rem;
  }
