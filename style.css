@@ -192,6 +192,8 @@ padding: 80px;
     background-image: url( "images/Rectangle\ 9.png");
     background-size: cover;
     background-repeat: no-repeat;
+    margin: auto;
+    
  
  }
  .subscribe-section{
@@ -229,6 +231,7 @@ padding: 80px;
 }
 
  .foot{
+    margin-top: 8rem;
     text-align: center;
     padding: 80px;
     background-color: black;
